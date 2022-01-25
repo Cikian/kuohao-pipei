@@ -1,0 +1,3 @@
+﻿  括号匹配检测.cpp
+D:\codes\VS Studio\jiance\括号匹配检测.cpp(20,21): warning C4018: “<”: 有符号/无符号不匹配
+  jiance.vcxproj -> D:\codes\VS Studio\jiance\Debug\括号匹配检测.exe
